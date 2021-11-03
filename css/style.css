@@ -1,3 +1,7 @@
+h1 {
+  padding: 30px;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -5092,6 +5096,7 @@ input[type="button"].btn-block {
       -ms-flex-direction: column;
           flex-direction: column;
   min-width: 0;
+  height: 255px;
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
@@ -10860,6 +10865,10 @@ h4,
   font-family: 'Archivo Narrow', sans-serif;
 }
 
+h1 {
+  font-size: 2rem;
+}
+
 .navbar {
   text-transform: uppercase;
 }
@@ -10912,5 +10921,10 @@ footer a {
   -webkit-box-flex: 1;
       -ms-flex: 1 0 auto;
           flex: 1 0 auto;
+}
+
+.card {
+  border-radius: 15px;
+  border-width: 3px;
 }
 /*# sourceMappingURL=style.css.map */
