@@ -10869,10 +10869,6 @@ h1 {
   text-transform: uppercase;
 }
 
-.navbar-collapse {
-  z-index: 1;
-}
-
 html,
 body {
   height: 100%;
